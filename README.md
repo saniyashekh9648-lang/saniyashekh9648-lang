@@ -1,5 +1,14 @@
 # 💫 About Me:
-CSE Student (2027) | Data Analytics | AI & ML Enthusiast | Data Science | Full-Stack Developer | Personal Projects Github| RTE Society’s Rural Engineering College, Hulkoti
+👋 Hi, I'm Saniya!
+
+🎓 Computer Science and Engineering Undergraduate  
+💻 Interested in Software Development, Artificial Intelligence & Machine Learning.  
+🚀 Skilled in Java, Python, SQL, and Web Technologies.  
+🤖 Exploring AI/ML, Data Analytics, and Emerging Technologies.  
+📊 Worked on projects involving Machine Learning, API Integration, and Data Visualization.  
+🌱 Always eager to learn new technologies, build innovative projects, and improve my problem-solving skills.
+
+**Let's connect and build something amazing!**
 
 
 ## 🌐 Socials:
